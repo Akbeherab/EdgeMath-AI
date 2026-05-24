@@ -1,23 +1,23 @@
 
 <div align="center">
 
-<!-- Animated Cyber Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=EdgeMath%20AI&fontSize=60&fontColor=00f0ff&animation=fadeIn&fontAlignY=35&desc=Offline%20LLM%20Mathematical%20Reasoning%20%7C%20Edge%20Computing%20%7C%20Raspberry%20Pi%204&descSize=15&descAlignY=58&descColor=c9d1d9" />
+<!-- Animated Yellow-Gold Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a00,50:3d3d00,100:ffd700&height=280&section=header&text=EdgeMath%20AI&fontSize=60&fontColor=ffd700&animation=fadeIn&fontAlignY=35&desc=Offline%20LLM%20Mathematical%20Reasoning%20%7C%20Edge%20Computing%20%7C%20Raspberry%20Pi%204&descSize=15&descAlignY=58&descColor=e0d8b0" />
 
-<!-- Neon Status Badges -->
+<!-- Gold Status Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Edge_AI-Raspberry%20Pi%204-00f0ff?style=for-the-badge&logo=raspberrypi&logoColor=00f0ff&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LLM-Phi--2%20Q4_K_M-ff00ff?style=for-the-badge&logo=openai&logoColor=ff00ff&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Inference-llama.cpp-00f0ff?style=for-the-badge&logo=cplusplus&logoColor=00f0ff&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Math_Engine-SymPy%20%7C%20NumPy-ff00ff?style=for-the-badge&logo=python&logoColor=ff00ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Edge_AI-Raspberry%20Pi%204-ffd700?style=for-the-badge&logo=raspberrypi&logoColor=ffd700&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LLM-Phi--2%20Q4_K_M-ffaa00?style=for-the-badge&logo=openai&logoColor=ffaa00&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Inference-llama.cpp-ffd700?style=for-the-badge&logo=cplusplus&logoColor=ffd700&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Math_Engine-SymPy%20%7C%20NumPy-ffaa00?style=for-the-badge&logo=python&logoColor=ffaa00&labelColor=0d1117" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.11+-00f0ff?style=flat-square&logo=python&logoColor=00f0ff&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Active%20Development-00ff88?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Latency-10--20s%20per%20query-00f0ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Architecture-ARM%20Cortex--A72-ff00ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/License-MIT-00f0ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Python-3.11+-ffd700?style=flat-square&logo=python&logoColor=ffd700&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Status-Active%20Development-ffd700?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Latency-10--20s%20per%20query-ffaa00?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Architecture-ARM%20Cortex--A72-ffd700?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/License-MIT-ffd700?style=flat-square&labelColor=0d1117" />
 </p>
 
 </div>
@@ -304,8 +304,8 @@ fastapi>=0.104.0
 **Amit Kumar Behera**
 
 <p>
-  <img src="https://img.shields.io/badge/IIT%20Patna-BS%20CSE%20%26%20Data%20Analytics-003366?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/IIT%20Madras-BS%20Electronic%20Systems-8B0000?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/IIT%20Patna--ffd700?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/IIT%20Madras--ffaa00?style=flat-square&labelColor=0d1117" />
 </p>
 
 **Research Interests:** Edge AI · Medical Imaging · Self-Supervised Learning · Embedded Computer Vision · IoT Security · Healthcare AI · Quantized LLM Inference
@@ -331,11 +331,10 @@ fastapi>=0.104.0
 
 <div align="center">
 
-### ⭐ Star this repository to support open-source edge AI for education
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=&fontSize=0" />
 
-<p><i><span style="color:#00f0ff">"Bringing large language model intelligence</span> <span style="color:#ff00ff">to the smallest corners of the world."</span></i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a00,50:3d3d00,100:ffd700&height=120&section=footer&text=&fontSize=0" />
+
+<p><i><span style="color:#ffd700">"Bringing large language model intelligence</span> <span style="color:#ffaa00">to the smallest corners of the world."</span></i></p>
 
 </div>
-```
